@@ -11,9 +11,7 @@
 <a align="center" href="https://www.linkedin.com/in/vivekmohape/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vivekmohape/"/>
 
 
-
 </p>
-
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -41,16 +39,10 @@ I am postgrauate in Computer Science with specialization in AI-ML from <a href="
 I was introduced to the field of Data Science and Machine Learning during a certification course at Scaler, during which I implemented projects in Natural Language Processing and ML.
 
 
-
 <br>
 
 
-
-
-
-
 <br>
-
 
 
 ### 🛠 &nbsp;Tech Stack 🔥
@@ -87,7 +79,6 @@ I was introduced to the field of Data Science and Machine Learning during a cert
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 
 
-
 </p>
 
 <br>
@@ -104,9 +95,6 @@ Known on the internet as [Vivek_Mohape](https://www.google.com/search?q=Vivek_M
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal_mankar)](https://www.linkedin.com/in/vivekmohape/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohapevivek@gmail.com)](mailto:mohapevivek@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/VivekMohape)](https://github.com/VivekMohape)
-
-
-
 
 
 
