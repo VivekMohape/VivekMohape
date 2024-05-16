@@ -18,7 +18,7 @@
 💡 &nbsp;I like to explore new technologies, develop AI-driven solutions.\
 🎓 &nbsp;I’m currently freelancing as a Machine Learning Engineer at Omdena.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Generative AI, and LLMs.\
-💬 &nbsp;Feel free to reach out to me for consulting, Product development.\
+💬 &nbsp;Please feel free to reach out to me regarding job opportunities, product development, consulting, or collaboration.\
 ✉️ &nbsp;You can shoot me an email at mohapevivek@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Profile](https://www.linkedin.com/in/vivekmohape/) for more details about me. I'm open to feedback and suggestions!
 
@@ -78,6 +78,7 @@ I was introduced to the field of Data Science and Machine Learning during a cert
 
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 
+🌱Note: Continuously exploring opportunities to expand my skill set and delve into emerging technologies.
 
 </p>
 
