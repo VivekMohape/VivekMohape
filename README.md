@@ -15,10 +15,10 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies, develop AI-driven solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies, develop AI-driven solutions.\
 🎓 &nbsp;I’m currently freelancing as a Machine Learning Engineer at Omdena.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Generative AI, and LLMs.\
-💬 &nbsp;Feel free to reach out to me for consulting, Product development and volunteering.\
+💬 &nbsp;Feel free to reach out to me for consulting, Product development.\
 ✉️ &nbsp;You can shoot me an email at mohapevivek@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Profile](https://www.linkedin.com/in/vivekmohape/) for more details about me. I'm open to feedback and suggestions!
 
