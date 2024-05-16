@@ -78,7 +78,7 @@ I was introduced to the field of Data Science and Machine Learning during a cert
 
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 
-🌱Note: Continuously exploring opportunities to expand my skill set and delve into emerging technologies.
+🌱I'm Continuously exploring opportunities to expand my skill set and delve into emerging technologies.
 
 </p>
 
