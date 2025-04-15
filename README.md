@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-  <h2 align='center'> <samp> Data Science | AI-ML Practitioner</samp></h2>
+  <h2 align='center'> <samp> Data Science | AI-ML & Gen AI Practitioner</samp></h2>
 </div>
 <p align="center">
 <a href="mailto:mohapevivek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-mohapevivek@gmail.com"/>
