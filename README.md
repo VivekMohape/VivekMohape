@@ -32,7 +32,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
-I am an AI-ML and Data Science practitioner who loves uncovering hidden facts and analytical insights from messy data. I have learned to build effective Machine Learning & Deep Learning Models, Natural Language Processing, Image Processing & deploying models to the cloud.
+I am an AI-ML and Data Science practitioner who loves uncovering hidden facts and analytical insights from messy data. I have learned to build effective Machine Learning & Deep Learning Models, Natural Language Processing, Image Processing & managing deployments to the cloud.
 
 I am postgrauate in Computer Science with specialization in AI-ML from <a href="https://woolf.university/" target="_blank">**WOOLF**</a> 
 
