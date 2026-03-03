@@ -33,7 +33,7 @@ Professional roles include:
 - Artificial Intelligence Engineer  
 - Machine Learning Engineer  
 - Business Intelligence Engineer  
-- Freelance AI Engineer  
+- Freelance AI Engineer & Consultant 
 - AI & ML Trainer  
 - Independent Quantum Researcher  
 
