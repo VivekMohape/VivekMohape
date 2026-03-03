@@ -1,106 +1,144 @@
-
 <div align="center">
-  <h1>Hi, I'm Vivek Mohape <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-  <h2 align='center'> <samp> Data Science | AI-ML & Gen AI Engineer and trainer | Quantum Researcher</samp></h2>
+  <h1>
+    Vivek Mohape
+  </h1>
+
+  <h2 align='center'>
+    <samp>
+      AI Engineer | Machine Learning Engineer | Business Intelligence Engineer | Agentic AI Architect | AI Trainer | Independent Quantum Researcher
+    </samp>
+  </h2>
 </div>
+
 <p align="center">
-<a href="mailto:mohapevivek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Mail-mohapevivek@gmail.com"/>
-<a align="center" href="https://www.linkedin.com/in/vivekmohape/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vivekmohape/"/>
-
-
+<a href="mailto:mohapevivek@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/vivekmohape/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/VivekMohape" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 </p>
 
+---
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies, develop AI-driven solutions.\
-🎓 &nbsp;I’m currently freelancing as a Machine Learning Engineer at Omdena.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Generative AI, and LLMs.\
-💬 &nbsp;Please feel free to reach out to me regarding job opportunities, product development, consulting, or collaboration.\
-✉️ &nbsp;You can shoot me an email at mohapevivek@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Profile](https://www.linkedin.com/in/vivekmohape/) for more details about me. I'm open to feedback and suggestions!
+## About Me
 
-</br>
-</br>
-</br>
+AI professional with experience across Machine Learning Engineering, Artificial Intelligence Engineering, Business Intelligence, Agentic AI architecture, training, and independent research.
 
-## Who Am I?
+Professional roles include:
 
-### Data Enthusiast 
+- Artificial Intelligence Engineer  
+- Machine Learning Engineer  
+- Business Intelligence Engineer  
+- Freelance AI Engineer  
+- AI & ML Trainer  
+- Independent Quantum Researcher  
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
+I specialize in designing and deploying production-grade AI systems that integrate machine learning, large language models, structured extraction pipelines, and automation workflows.
 
-I am an AI-ML and Data Science practitioner who loves uncovering hidden facts and analytical insights from messy data. I have learned to build effective Machine Learning & Deep Learning Models, Natural Language Processing, Image Processing & managing deployments to the cloud.
+Core focus areas:
 
-I am postgrauate in Computer Science with specialization in AI-ML from <a href="https://woolf.university/" target="_blank">**WOOLF**</a> 
+- Agentic AI and Multi-Agent Systems  
+- Retrieval-Augmented Generation (RAG)  
+- LLM-Ops and inference optimization  
+- Structured data extraction systems  
+- Hybrid retrieval (Vector Search + BM25)  
+- ML model development and evaluation  
+- Data analytics and BI reporting systems  
 
-I was introduced to the field of Data Science and Machine Learning during a certification course at Scaler, during which I implemented projects in Natural Language Processing and ML.
+---
 
+## Professional Profile
 
-<br>
+I build scalable AI systems that combine classical machine learning, modern LLM architectures, and automation-first engineering.
 
+Experience includes:
 
-<br>
+- Designing multi-agent workflows using LangGraph and LangChain  
+- Building RAG pipelines with validation and fallback mechanisms  
+- Developing JD/CV structured extraction engines with schema enforcement  
+- Integrating LLM pipelines into production via APIs and async frameworks  
+- Large-scale SQL analytics and BI dashboards  
+- Optimizing latency, cost, and reliability of AI systems  
 
+Master of Science in Computer Science (AI-ML Specialization)  
+Woolf University  
 
-### 🛠 &nbsp;Tech Stack 🔥
+---
 
+## Leadership & Professional Skills
 
+- Technical Leadership and Project Ownership  
+- Research Writing and Academic Documentation  
+- Team Management and Cross-Functional Collaboration  
+- Mentoring and Training in AI & Machine Learning  
+- Clear Technical Communication with stakeholders  
+- Curriculum Design and Knowledge Transfer  
+- Analytical Thinking and Problem Structuring  
+- Independent Research and Conceptual Modeling  
 
-### Languages:-
+---
+
+## Technical Stack
+
+### Programming & Query Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql&logoColor=white)
 
-### Data Analysis:-
-![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
-![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-000000?style=flat-square&logo=excel&logoColor=white)
+---
 
+### AI / ML / LLM Systems
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-000000?style=flat-square)
+![LLM-Ops](https://img.shields.io/badge/-LLM--Ops-000000?style=flat-square)
+![AutoGen](https://img.shields.io/badge/-Multi--Agent-000000?style=flat-square)
 
-### Tools & Platforms:- 
+---
+
+### Data Engineering & Business Intelligence
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy)
+![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=flat-square)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat-square)
+
+---
+
+### Backend, Deployment & Infrastructure
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
-![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&style=flat-square)
-![Keras Badge](https://img.shields.io/badge/Keras-000000?logo=keras&style=flat-square)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&style=flat-square)
-![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
 
-### Dev Environment:-
+---
 
+### Development Environment
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
-![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
-![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square)
 
-![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
+---
 
-🌱I'm Continuously exploring opportunities to expand my skill set and delve into emerging technologies.
+## Contact
 
-</p>
+Email: mohapevivek@gmail.com  
+LinkedIn: https://www.linkedin.com/in/vivekmohape/  
+GitHub: https://github.com/VivekMohape  
 
-<br>
-
-
-## How to reach me 📱
-
-<table>
-  <tr>
-    <td>
-      
-Known on the internet as [Vivek_Mohape](https://www.google.com/search?q=Vivek_Mohape)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal_mankar)](https://www.linkedin.com/in/vivekmohape/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohapevivek@gmail.com)](mailto:mohapevivek@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/VivekMohape)](https://github.com/VivekMohape)
-
-
+---
 
 <div align="center">
-<h2> Show some ❤️ by starring some of the repositories! </h2>
+<h3>Explore the repositories for applied AI systems, agentic workflows, and research-driven implementations.</h3>
 </div>
-
-
